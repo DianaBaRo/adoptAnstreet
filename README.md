@@ -16,7 +16,7 @@ adoptAnStreet was built with [Ruby on Rails](https://rubyonrails.org/) and [Boot
 
 ### Prerequisites
 
-You will need to have the following installed on your computer in order to use RecipeManager:
+You will need to have the following installed on your computer in order to use adoptAnStreet:
 
 * Ruby
 * Rails 5+
